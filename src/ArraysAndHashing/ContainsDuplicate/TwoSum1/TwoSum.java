@@ -1,5 +1,5 @@
 
-package TwoSum1;
+package ArraysAndHashing.ContainsDuplicate.TwoSum1;
 
 /**
  * @author toxodia
