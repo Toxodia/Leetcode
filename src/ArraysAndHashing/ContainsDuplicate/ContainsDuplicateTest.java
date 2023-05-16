@@ -3,7 +3,8 @@ package ArraysAndHashing.ContainsDuplicate;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class ContainsDuplicateTest {
+public class
+ContainsDuplicateTest {
 
     @Test
     public void containsDuplicate1() {
